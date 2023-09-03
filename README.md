@@ -7,15 +7,4 @@
 
 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
-  
-
-  
-  Hi, I'm theekshana 💕
-
-
-I am 17 yeas old. From Sri Lanka  
-
-
-See you 💘
-
-
+   Hi, I'm PRAVEEN 💕
