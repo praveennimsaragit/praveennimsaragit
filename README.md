@@ -3,6 +3,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PRAVEEN&show_icons=true&locale=en&layout=compact" alt="PRAVEEN" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimesh-official&show_icons=true&locale=en" alt="nimesh-official" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRAVEEN&show_icons=true&locale=en" alt="PRAVEEN" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimesh-official&" alt="nimesh-official" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PRAVEEN&" alt="PRAVEEN" /></p>
